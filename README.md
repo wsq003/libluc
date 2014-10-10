@@ -1,5 +1,5 @@
 libluc
 ======
 
-light-weighted utilities for c, support both windows and linux.
+light-weighted utilities for c, support windows for now. will support linux later.
 
